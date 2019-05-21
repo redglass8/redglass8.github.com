@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Redglass8's github page
 
 You can use the [editor on GitHub](https://github.com/redglass8/redglass8.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
