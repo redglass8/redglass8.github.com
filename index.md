@@ -1,9 +1,13 @@
 ## Programs
 
-//Open program code
 [Open program code](https://www.baidu.com/)test link
 
-### Markdown
+```code stage
+
+this is code stage
+```
+
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
