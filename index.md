@@ -1,7 +1,7 @@
 ## Programs
 
-Open program code
-[Link](https://www.baidu.com/)test link
+//Open program code
+[Open program code](https://www.baidu.com/)test link
 
 ### Markdown
 
